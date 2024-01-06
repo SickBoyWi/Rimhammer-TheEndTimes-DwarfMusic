@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!-- AnyTime -->
+
+	<SongDef>
+		<clipPath>AnyTime/DwarfBattleMusic-DwarvenCitadel</clipPath>
+		<volume>0.92</volume>
+		<!-- Example
+		<allowedSeasons>
+			<li>Winter</li>
+			<li>Spring</li>
+			<li>Fall</li>
+		</allowedSeasons>
+		-->
+	</SongDef>
+
+	<SongDef>
+		<clipPath>AnyTime/EpicDwarfMusic-BalintheWise</clipPath>
+		<volume>0.92</volume>
+	</SongDef>	
+	
+	<SongDef>
+		<clipPath>AnyTime/EpicDwarfMusic-DeepintheMountain</clipPath>
+		<volume>0.92</volume>
+	</SongDef>		
+	
+	<SongDef>
+		<clipPath>AnyTime/EpicDwarfMusic-DwarvenKingdom</clipPath>
+		<volume>0.92</volume>
+	</SongDef>	
+	
+	<SongDef>
+		<clipPath>AnyTime/EpicDwarfMusic-FiliandKili</clipPath>
+		<volume>0.92</volume>
+	</SongDef>		
+
+	<SongDef>
+		<clipPath>AnyTime/EpicDwarfMusic-GimlitheDwarf</clipPath>
+		<volume>0.92</volume>
+	</SongDef>		
+
+	<SongDef>
+		<clipPath>AnyTime/EpicDwarfMusic-IronMountains</clipPath>
+		<volume>0.92</volume>
+	</SongDef>	
+
+	<SongDef>
+		<clipPath>AnyTime/EpicDwarfMusic-KingoftheDwarves</clipPath>
+		<volume>0.92</volume>
+	</SongDef>	
+
+	<SongDef>
+		<clipPath>AnyTime/EpicDwarfMusic-MistyMountains</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>AnyTime/EpicDwarfMusic-SecretoftheDwarves</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>AnyTime/EpicDwarfMusic-ThorinOakenshield</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>AnyTime/FantasyMusic-LodestoneMine</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/HalloweenMusic-VampireDwarves</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>AnyTime/NorseFantasyMusic-Nidavellir</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>AnyTime/TribalFantasyMusic-LostJungleoftheTribalDwarves</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+<!-- Day -->	
+
+	<SongDef>
+		<clipPath>Day/DwarfMusic-EarthstoneTown</clipPath>
+		<volume>0.92</volume>
+		<allowedTimeOfDay>Day</allowedTimeOfDay>		
+	</SongDef>		
+
+	<SongDef>
+		<clipPath>Day/EpicDwarfMusic-DwarfPrince</clipPath>
+		<volume>0.92</volume>
+		<allowedTimeOfDay>Day</allowedTimeOfDay>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>Day/EpicDwarfMusic-DwarvenMines</clipPath>
+		<volume>0.92</volume>
+		<allowedTimeOfDay>Day</allowedTimeOfDay>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>Day/EpicDwarfMusic-DwarvesoftheGoldenHall</clipPath>
+		<volume>0.92</volume>
+		<allowedTimeOfDay>Day</allowedTimeOfDay>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>Day/EpicDwarfMusic-MountainDwellers</clipPath>
+		<volume>0.92</volume>
+		<allowedTimeOfDay>Day</allowedTimeOfDay>		
+	</SongDef>
+
+<!-- Night -->	
+
+	<SongDef>
+		<clipPath>Night/DwarfMusic-DwarfLordsTavern</clipPath>
+		<volume>0.92</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>	
+	
+	<SongDef>
+		<clipPath>Night/DwarfMusic-WinterStronghold</clipPath>
+		<volume>0.92</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>Night/EpicDwarfMusic-DwarvenTunnels</clipPath>
+		<volume>0.92</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>	
+	
+	<SongDef>
+		<clipPath>Night/EpicDwarfMusic-Sandcliff</clipPath>
+		<volume>0.92</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>	
+
+	<SongDef>
+		<clipPath>Night/EpicDwarvenMusic-ForgottenGold</clipPath>
+		<volume>0.92</volume>
+	</SongDef>	
+	
+	<SongDef>
+		<clipPath>Night/FantasyMusic-GnomesoftheLostMines</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>Night/FantasyMusic-TheJaggedMines</clipPath>
+		<volume>0.92</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+
+<!-- Tense -->
+
+	<SongDef>	
+		<clipPath>Tense/DwarfMiningMusic-DwarfMiningTown</clipPath>
+		<volume>0.92</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>Tense/EpicDwarfMusic-DwarvenAxes</clipPath>
+		<volume>0.92</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>Tense/EpicDwarfMusic-DwarvenFortress</clipPath>
+		<volume>0.92</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>Tense/EpicDwarfMusic-Erebor</clipPath>
+		<volume>0.92</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>Tense/EpicDwarfMusic-MinesofMoria</clipPath>
+		<volume>0.92</volume>
+		<tense>true</tense>
+	</SongDef>
+
+</Defs>
